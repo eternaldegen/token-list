@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "EvBr7Q1fJUMYT8MNqbeAFVikr4hh3MaKddDdoBB2w3Xx",
+  "symbol": "ORBITAL",
+  "name": "Orbital Token",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/eternaldegen/orbital-assets/main/orbitaltransparent.png",
+  "tags": ["utility-token"]
+}
